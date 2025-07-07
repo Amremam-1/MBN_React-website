@@ -1,0 +1,36 @@
+{
+  "intro-title-one": "الخدمات",
+  "intro-title-two": "التقنية والتسويقية",
+  "intro-subtitle": "نقدم خدمات تقنية وتسويقية متطورة من خلال فرقنا الماهرة في المملكة العربية السعودية، مصر، الصين الإمارات بهدف تقديم أحدث الابتكارات لتلبية احتياجاتك.",
+  "intro-lets-get-started": "لنبدأ",
+
+  "service-title": "خدماتنا",
+  "service-view-more": "عرض المزيد",
+  "service-tool": "الأدوات",
+
+  "portfolio-title": "أعمالنا",
+  "portfolio-all": "الكل",
+  "portfolio-website": "المواقع الإلكترونية",
+  "portfolio-application": "التطبيقات",
+  "portfolio-artistic": "الفنية",
+  "portfolio-motion-graphics": "الرسوم المتحركة",
+  "portfolio-advertising-posters": "الملصقات الإعلانية",
+  "portfolio-view-more": "عرض المزيد",
+  
+  "portfolio-no-projects": "لا توجد مشاريع متاحة",
+
+  "testmonial-title-one": "ماذا",
+  "testmonial-title-two": "يقول عملاؤنا",
+  "testmonial-subtitle": "ابتكار واحترافية",
+  "testmonial-no-comment": "لا توجد تعليقات متاحة",
+
+  "contact-title-one": "أخبرنا",
+  "contact-title-two": "ما هي فكرتك",
+  "contact-subtitle": "لا تتردد في الاتصال بنا لأي استفسارات أو تعاونات أو مناقشات حول المشاريع. فريقنا هنا لمساعدتك. يمكنك الوصول إلينا عبر الهاتف أو البريد الإلكتروني أو من خلال ملء نموذج الاتصال أدناه. نتطلع إلى سماع أخبارك!",
+  "contact-form-name": "الاسم",
+  "contact-form-email": "البريد الإلكتروني",
+  "contact-form-phone": "الهاتف",
+  "contact-form-service": "الخدمات",
+  "contact-form-message": "الرسالة",
+  "contact-form-send": "أرسلها"
+}
