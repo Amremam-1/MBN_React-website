@@ -1,4 +1,4 @@
-import { counter } from "../constants"
+
 import Image from "./Image"
 import { useTranslation } from "react-i18next"
 import clsx from "clsx"

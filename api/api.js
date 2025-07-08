@@ -1,7 +1,7 @@
 import axios from "axios"
 
 // const baseURL = "https://filterr.net/admin/informatinal/api"
-const baseURL = "https://mahercp.net/admin/informatinal/api"
+const baseURL = "https://www.mahercp.net/admin/informatinal/api"
 
 // const api = axios.create({
 //   baseURL,
